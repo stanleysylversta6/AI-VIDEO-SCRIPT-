@@ -32,16 +32,12 @@ natural interaction between the host, creator, and live studio audience.
 ---
 
 ## Voice and Dialogue
-**Scene 1**
+
 - Friendly, playful tone  
 - Host welcomes creator and reads Facebook comments  
 - Creator responds casually with short remarks and laughter  
-
-**Scene 2**
 - Host: “Let’s play the video.”  
 - No dialogue during playback; only laughter  
-
-**Scene 3**
 - Host closing line:  
   “Thank you for watching. Don’t forget to like, comment, share, and follow for more.”
 
@@ -72,32 +68,22 @@ natural interaction between the host, creator, and live studio audience.
 ---
 
 ## Action Flow
-**Scene 1**
 - Host welcomes creator and reads comments  
 - Shared laughter with creator and audience  
-
-**Scene 2**
 - Host gestures to screen  
 - Viral video plays with group laughter  
-
-**Scene 3**
 - Audience claps and laughs  
 - Host delivers closing message  
 
 ---
 
 ## Camera Movement
-**Scene 1**
 - Wide establishing shot  
 - Slow dolly-in toward host and creator  
 - Audience reaction cutaways  
-
-**Scene 2**
 - Cut to LED screen  
 - Slow zoom before playback  
 - Reaction shots  
-
-**Scene 3**
 - Wide studio shot  
 - Slow pull-back during applause  
 - Final close-up of smiling host  
