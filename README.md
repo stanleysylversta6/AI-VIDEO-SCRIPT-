@@ -28,12 +28,20 @@ natural interaction between the host, creator, and live studio audience.
 - Host
 - Creator
 - Audience
-- Screen Content Characters  
+- Screen Content Characters
+- 
+**DEFINE ROLES (VERY IMPORTANT)**
+  Roles:
+Girl 1 = Speaker 1 (center)
+Girl 2 = Speaker 2 (left)
+Girl 3 = Speaker 3 (right)
+
+| This tells AI who can speak.
+--
 ---
 
-================================================
-VOICE SETTINGS & CATEGORIES (GLOBAL FOR ALL SCENES)
-================================================
+## VOICE SETTINGS & CATEGORIES (GLOBAL FOR ALL SCENES)
+
 
 **Voice Type**
 - Natural human voice
