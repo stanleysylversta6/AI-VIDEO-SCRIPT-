@@ -31,15 +31,79 @@ natural interaction between the host, creator, and live studio audience.
 
 ---
 
-## Voice and Dialogue
-- Relaxed, humorous, natural  
-- Friendly, playful tone  
-- Host welcomes creator and reads Facebook comments  
-- Creator responds casually with short remarks and laughter  
-- Host: “Let’s play the video.”  
-- No dialogue during playback; only laughter  
-- Host closing line:  
-  “Thank you for watching. Don’t forget to like, comment, share, and follow for more.”
+================================================
+VOICE SETTINGS & CATEGORIES (GLOBAL FOR ALL SCENES)
+================================================
+
+**Voice Type**
+- Natural human voice
+- African accent (neutral, pan-African)
+- Friendly, conversational, unscripted feel
+
+**Voice Gender**
+- Host: Female or Male (clear, warm tone)
+- Creator: Male or Female (casual, playful)
+- Audience: Mixed voices (group laughter, reactions)
+
+**Voice Energy Level**
+- Medium to high energy
+- Relaxed, fun, playful
+- No serious or formal delivery
+
+**Speech Style**
+- Conversational
+- Slight improvisation feel
+- Natural pauses and breathing
+- Short laughs between sentences
+
+**Voice Pace**
+- Normal speaking speed
+- Slightly faster during excitement
+- Slow and clear when reading comments
+
+**Emotion & Tone**
+- Happy
+- Playful
+- Amused
+- Light teasing
+- Genuine laughter (not forced)
+
+**Audio Clarity Rules**
+- Host voice always clear and dominant
+- Creator voice slightly softer than host
+- Audience voices blended in background
+- No overlapping dialogue (one main speaker at a time)
+
+**Laughter Rules**
+- Natural laughter only
+- Short bursts, not constant
+- Audience laughter reacts after jokes or comments
+- Host and Creator laugh briefly, then continue speaking
+
+**Lip-Sync Rules**
+- Accurate lip-sync for Host and Creator
+- Audience mouths move naturally but not synced individually
+
+**Voice Direction by Scene**
+- Scene 1: Friendly welcome, playful reading tone
+- Scene 2: Laughing reactions, minimal talking
+- Scene 3: Warm closing, smiling voice
+
+**Background Audio**
+- Soft studio ambience
+- Light crowd reactions
+- Applause only in closing scene
+
+**Audio Effects**
+- No echo
+- No distortion
+- Clean studio sound
+- Broadcast-quality mix
+
+**Language Style**
+- Simple English
+- Light African slang allowed (e.g., “This one funny well well!”)
+- Easy to understand, global audience friendly
 
 ---
 
