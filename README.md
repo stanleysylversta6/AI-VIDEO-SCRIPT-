@@ -32,7 +32,7 @@ natural interaction between the host, creator, and live studio audience.
 ---
 
 ## Voice and Dialogue
-
+- Relaxed, humorous, natural  
 - Friendly, playful tone  
 - Host welcomes creator and reads Facebook comments  
 - Creator responds casually with short remarks and laughter  
@@ -44,6 +44,7 @@ natural interaction between the host, creator, and live studio audience.
 ---
 
 ## Body Language and Movement
+
 - Open hand gestures and light pointing to LED screen  
 - Slight forward lean when reading comments  
 - Relaxed posture with frequent smiles 
