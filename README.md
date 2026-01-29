@@ -14,21 +14,21 @@ natural interaction between the host, creator, and live studio audience.
 
 ---
 
-## Characters
-**Host**
-- African female or male  
-- Confident, playful, expressive  
-- Seated throughout the interview  
+## CHARACTER TYPES (VIDEO SETTINGS)
 
-**Creator**
-- African content creator  
-- Relaxed, humorous, natural  
-- Seated beside the host  
+1. Primary Host
+2. Guest Creator
+3. Live Studio Audience
+4. Background Studio Crew (non-visible)
+5. On-Screen Video Characters (LED Screen Only)
+6. Crowd Reaction Group
 
-**Audience**
-- Live studio audience  
-- Natural laughter, clapping, and reactions  
+**CHARACTER TYPES**
 
+- Host
+- Creator
+- Audience
+- Screen Content Characters  
 ---
 
 ================================================
