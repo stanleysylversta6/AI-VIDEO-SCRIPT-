@@ -44,17 +44,12 @@ natural interaction between the host, creator, and live studio audience.
 ---
 
 ## Body Language and Movement
-**Host**
 - Open hand gestures and light pointing to LED screen  
 - Slight forward lean when reading comments  
-- Relaxed posture with frequent smiles  
-
-**Creator**
+- Relaxed posture with frequent smiles 
 - Smiles, laughs, nods naturally  
 - Occasional hand gestures  
 - Leans toward host during shared laughter  
-
-**Audience**
 - Laughing, clapping, leaning forward  
 - Reactions remain authentic  
 
