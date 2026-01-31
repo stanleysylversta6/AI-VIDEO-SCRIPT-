@@ -1,5 +1,4 @@
-# Playful Facebook Creator Interview – Audience Laugh Edition
-
+# AI VIDEO SETTINGS PROMPT 
 ## Overview
 This document defines the concept and production guidelines for a playful, broadcast-ready
 Facebook creator interview. The focus is on authentic reactions, audience laughter, and
