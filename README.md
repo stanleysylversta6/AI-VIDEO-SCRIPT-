@@ -1,4 +1,4 @@
-# AI VIDEO SETTINGS PROMPT 
+# AI VIDEO SETTINGS
 ## Overview
 This document defines the concept and production guidelines for a playful, broadcast-ready
 Facebook creator interview. The focus is on authentic reactions, audience laughter, and
@@ -39,7 +39,7 @@ Girl 3 = Speaker 3 (right)
 --
 ---
 
-## VOICE SETTINGS & CATEGORIES (GLOBAL FOR ALL SCENES)
+## VOICE SETTINGS
 
 
 **Voice Type**
