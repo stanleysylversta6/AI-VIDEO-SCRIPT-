@@ -123,7 +123,20 @@ Girl 3 = Speaker 3 (right)
 - Occasional hand gestures  
 - Leans toward host during shared laughter  
 - Laughing, clapping, leaning forward  
-- Reactions remain authentic  
+- Reactions remain authentic
+
+  ## BODY MOVEMENT
+
+  - Static (no movement – news anchor style)
+  - Subtle gestures (controlled hand motion)
+  - Expressive gestures (campaign style)
+  - Walking
+  - Turning
+  - Leaning forward/back
+  - Stepping forward
+  - Weight shifting
+  - Hand emphasis
+  - Natural idle motion (breathing, micro shifts
 
 ---
 
