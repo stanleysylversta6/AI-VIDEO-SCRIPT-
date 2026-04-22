@@ -6,6 +6,76 @@ natural interaction between the host, creator, and live studio audience.
 
 ---
 
+# 🔊 Gemini 3.1 Flash TTS Guide
+
+A simple and practical guide to using **Gemini 3.1 Flash TTS** for generating realistic and expressive AI voice output.
+
+---
+
+## 🚀 Overview
+
+Gemini 3.1 Flash TTS is an advanced **text-to-speech (TTS)** model by Google Cloud.
+
+It converts text into natural, high-quality speech with control over:
+- Tone
+- Emotion
+- Style
+- Pacing
+
+✔ Available on:
+- Google AI Studio  
+- Vertex AI  
+
+✔ Supports:
+- 70+ languages  
+- 200+ audio tags  
+- Multiple voice styles  
+
+---
+
+## 🧠 What You Will Learn
+
+- Model overview  
+- Voice style instructions  
+- Prompting framework (audio tags)  
+- Expression and pacing control  
+- Real-world use cases  
+
+---
+
+## 🧰 1. Model Overview
+
+- High-quality, natural speech output  
+- Fine control over tone and delivery  
+- Audio is watermarked using **SynthID**  
+- Built for developers, creators, and enterprises  
+
+---
+
+## 🎙️ 2. Voice Style Instructions
+
+To start:
+
+1. Choose a **base voice** (30+ available)  
+2. Select a **language** (70+ supported)  
+3. Add style using natural language  
+
+Example styles:
+- Professional narrator  
+- Casual conversation  
+- Regional accents  
+
+You can then enhance output using **audio tags**.
+
+---
+
+## ⚙️ 3. Core Prompting Framework
+
+Gemini uses **audio tags** to control voice behavior.
+
+### 📌 Formula
+
+
 ## Scene Structure
 - **Scene 1:** Welcome and Fan Comments  
 - **Scene 2:** Viral Video Playback  
