@@ -69,6 +69,22 @@ You can then enhance output using **audio tags**.
 
 ---
 
+### 📌 Rules
+
+- Always use **square brackets** → `[happy]`  
+- Place tags **before the text** they affect  
+- Do NOT put two tags together  
+- Separate tags with text or punctuation  
+
+---
+
+## 🎛️ 4. Directing Expression and Pacing
+
+Gemini supports **200+ audio tags** for expressive speech.
+
+### 🔹 Common Expression Tags
+
+
 ## ⚙️ 3. Core Prompting Framework
 
 Gemini uses **audio tags** to control voice behavior.
