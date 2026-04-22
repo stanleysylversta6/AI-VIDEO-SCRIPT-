@@ -69,6 +69,14 @@ You can then enhance output using **audio tags**.
 
 ---
 
+## ⚙️ 3. Core Prompting Framework
+
+Gemini uses **audio tags** to control voice behavior.
+
+### 📌 Formula
+
+[pacing tag] + spoken text + [expressive tag] + spoken text + [pause tag] + spoken text
+
 ### 📌 Rules
 
 - Always use **square brackets** → `[happy]`  
@@ -84,12 +92,7 @@ Gemini supports **200+ audio tags** for expressive speech.
 
 ### 🔹 Common Expression Tags
 
-
-## ⚙️ 3. Core Prompting Framework
-
-Gemini uses **audio tags** to control voice behavior.
-
-### 📌 Formula
+[determination], [enthusiasm], [adoration], [interest], [awe], [admiration], [nervousness], [frustration], [excitement], [curiosity], [hope], [annoyance], [amusement], [aggression], [tension], [agitation], [confusion], [anger], [positive], [neutral], [negative], [whispers], [laughs]
 
 
 ## Scene Structure
